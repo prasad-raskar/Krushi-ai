@@ -1,0 +1,28 @@
+{
+  "name": "कृषीAI — AI शेती सहाय्यक",
+  "short_name": "कृषीAI",
+  "description": "AI-सक्षम कृषी सहाय्यक — रोग ओळख, हवामान बुद्धिमत्ता, उत्पादन अंदाज आणि थेट बाजार व्यापार.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020804",
+  "theme_color": "#020804",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["agriculture", "productivity", "utilities"],
+  "lang": "mr",
+  "dir": "ltr"
+}
